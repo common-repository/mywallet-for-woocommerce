@@ -1,0 +1,412 @@
+.my_wallet_main_div {
+  margin-top: 20px;
+}
+
+.my_wallet_header_div {
+  width: 100%;
+  background-color: aliceblue;
+  cursor: pointer;
+}
+
+.my_wallet_header_div {
+  width: 100%;
+  padding: 20px;
+}
+
+.m-0 {
+  margin: 0px !important;
+}
+
+.carot,
+.f-right {
+  float: right;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+.d-none {
+  display: none;
+}
+
+#add-money-form-body {
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.f-right {
+  float: right;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.p-top {
+  padding-top: 10px !important;
+}
+
+.payment-options {
+  width: 100%;
+}
+
+#top-up-form-body {
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h2-size {
+  font-size: 1.3rem !important;
+}
+
+
+
+/* .top-up-div {
+  background-color: #0170B9;
+  box-shadow: 0px 0px 20px -5px grey;
+  border-radius: 5px;
+  color: white;
+  width: 420px;
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  align-items: center;
+} */
+
+.top-up-div {
+  background-color: #fff;
+  box-shadow: 0px 0px 20px -5px grey !important;
+  /* border-radius: 5px; */
+  /* color: white; */
+  width: 420px !important;
+  display: flex !important;
+  /* padding: 20px; */
+  flex-direction: column !important;
+  align-items: center !important;
+  border-radius: 25px 25px 0px 0px !important;
+  border-bottom: 2px solid #1b1b1b !important;
+}
+
+.top-up-div-header{
+  background-color: #424242 !important;
+  width: 100% !important;
+  border-radius: 25px 25px 0px 0px !important;
+}
+
+.top-header-content{
+  color: #fff !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: 0px !important;
+  padding: 20px !important;
+}
+
+.top-up-div-body{
+  padding: 20px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+}
+
+
+/* .price-btn {
+  background-color: white;
+  color: #0170B9;
+} */
+
+.price-btn {
+  background-color: #424242;
+  color: #fff;
+}
+
+/* .price-btn:hover {
+  background-color: #3A3A3A;
+  color: white;
+} */
+
+.t-white {
+  color: white !important;
+}
+
+#custom_amount {
+  margin-top: 15px;
+  width: 90%;
+      border: 1px solid #1b1b1b;
+    outline: none;
+  /* outline: none; */
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.th,
+.td {
+  text-align: left;
+  padding: 8px;
+}
+
+.tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+
+.th {
+  background-color: #0170B9;
+  color: white;
+}
+
+.error {
+  color: #D8000C;
+  background-color: #FFD2D2;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.close-error {
+  float: right;
+  cursor: pointer;
+}
+
+.success {
+  color: #270;
+  background-color: #DFF2BF;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.close-success {
+  float: right;
+  cursor: pointer;
+}
+
+.m-0 {
+  margin: 0px !important;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.ml-15{
+  margin-left: 15px;
+}
+
+
+
+.coupon-box {
+  width: 100%;
+}
+
+.coupon-heading {
+  padding: 10px;
+  width: 100%;
+}
+
+.coupon {
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.coupon-item {
+  font-weight: bold;
+  background-color: #1b1b1b;
+  padding: 10px;
+  color: white;
+  box-shadow: 0px 0px 20px -5px grey;
+  cursor: pointer;
+}
+
+#add_coupon_money_btn{
+  background-color: #1b1b1b;
+  color: #fff;
+}
+
+.mx-5 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: .5rem .75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #007bff;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+.pagination {
+  display: flex;
+  margin: 0px !important;
+}
+
+.f-600{
+  font-weight: 600;
+}
+
+.mb-5{
+  margin-bottom: 5px;
+}
+
+.active,
+.btn:hover {
+  background-color: #0170B9;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
+
+.my-25 {
+  margin: 25px 0px 25px 0px !important;
+}
+
+.mt-25 {
+  margin-top: 25px;
+}
+
+.page-link:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+#paypal-payment-button {
+  margin-top: 15px !important;
+}
+
+.woocommerce-MyAccount-content {
+  background-color: white;
+  padding: 40px;
+  font-family: Arial, Times, Gorgia, Courier;
+}
+
+.p-20{
+  padding: 20px !important;
+}
+
+.checkout-popup-main-div {
+  background-color: #fff;
+  width: 400px;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  padding: 25px;
+  line-height: 1.8;
+  border-bottom: 5px solid #424242;
+  border-radius: 10px;
+}
+
+.pop-up-background {
+  position: absolute;
+  top: -1024px;
+  left: -1024px;
+  right: -1024px;
+  bottom: -1024px;
+  background-color: grey;
+  z-index: 0;
+  opacity: 0.8;
+  padding: 0px;
+  margin: 0px;
+}
+
+.mywallet-checkout-close-btn {
+  background-color: grey;
+  color: #fff;
+  padding: 1px 11px;
+  border-radius: 20px;
+  float: right;
+  cursor: pointer;
+}
+
+#wallet-transfer-form-body{
+  flex-direction: column !important;
+}
+
+.pad-15{
+  padding: 15px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    /* background-color: lightgreen; */
+  }
+
+  .wallet-balance {
+    float: left;
+    margin: 5px 0px;
+  }
+}
+
+/* tooltip css starts */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.my-wallet-paypal-icon{
+  width: 50px !important;
+  margin-left: 10px !important;
+}
+
+.my-wallet-price-checkout .woocommerce-Price-amount  bdi{
+  color: green !important;
+  font-size: 12px !important;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.text-danger{
+  color: red;
+}
